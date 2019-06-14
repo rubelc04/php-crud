@@ -1,0 +1,20 @@
+what is csrf?
+erp
+
+
+what is object?
+
+# for (i=1; i<5; i++)
+    initilaze; condition; inrement or drement;
+
+
+# arry object
+# bass insert
+
+# i=5
+  i++ 5 6 7 8... 
+  ++i 6 6 7 8... 
+
+home work:
+    data type: 
+    access modifier:
